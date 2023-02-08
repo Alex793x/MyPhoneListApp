@@ -1,5 +1,3 @@
-package utility_io;
-
 import java.util.*;
 
 import static java.util.Map.entry;

@@ -1,7 +1,3 @@
-package application_modules;
-
-import Controller.AppLogic;
-
 public class RunApp {
 
     public static void run() {

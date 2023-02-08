@@ -1,4 +1,3 @@
-package application_modules;
 import java.util.Arrays;
 
 public class Menu {

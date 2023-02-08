@@ -1,12 +1,3 @@
-package Controller;
-
-import Handlers.PhoneBookHandler;
-import application_modules.Menu;
-import application_modules.PhoneBook;
-import file_io.FileReader;
-import file_io.FileWriter;
-import utility_io.UI;
-
 public class AppLogic {
     // Fields ----------------------------------------------
     UI ui = new UI();

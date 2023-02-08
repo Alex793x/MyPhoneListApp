@@ -1,9 +1,3 @@
-package application_modules;
-
-import utility_io.UI;
-
-import java.util.Scanner;
-
 public class Contact {
     // Fields --------------------------------------------------
     private String firstName;

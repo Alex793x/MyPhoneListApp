@@ -1,8 +1,3 @@
-package file_io;
-
-import application_modules.Contact;
-import application_modules.PhoneBook;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 

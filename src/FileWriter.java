@@ -1,7 +1,3 @@
-package file_io;
-
-import application_modules.PhoneBook;
-
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.util.Comparator;
